@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+select {
+  width: 50%;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  font-size: 18px;
+  color: #333;
+}
+
+.note {
+  margin-bottom: 5%;
+}
+
+.problems {
+  min-height: 50vh;
+}
+
+.outputContainer {
+  min-height: 50vh;
+}
